@@ -1,8 +1,9 @@
 # Image-Processing
 Used Entropy compression , LocoI to process Image to different sizes and bit-rate
 
-
-|<img src=""i1.png" width="250"> | <img src="img src=""i2.png" width="250">|
+| col 1      | col 2      |
+|------------|-------------|
+|<img src=""i1.png" width="23"> | <img src="img src=""i2.png" width="23">|
 
 
 
