@@ -1,6 +1,11 @@
 # Image-Processing
 Used Entropy compression , LocoI to process Image to different sizes and bit-rate
 
+
+| <img src=""i1.png" width="250"> | <img src="img src=""i1.png" width="250"> |
+
+
+
 #Prediction_Image1 
 <img src="i1.png" width="23%"></img>           
 #Prediction_Image 2
